@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "KfDcBAWOldKEzK21z11gWAcZFjQOIdSeo03jHFlOJLeQ50QANG4QFWf/gLnumWMZR9DyvmbQ20KYobYHIKLuAw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\PracticalConsoleApp\\PracticalConsoleApp\\PracticalConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.1\\microsoft.aspnet.signalr.client.2.4.1.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.4\\microsoft.aspnetcore.connections.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.4\\microsoft.aspnetcore.http.connections.client.3.1.4.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.4\\microsoft.aspnetcore.http.connections.common.3.1.4.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.4\\microsoft.aspnetcore.http.features.3.1.4.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.4\\microsoft.aspnetcore.signalr.client.3.1.4.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.4\\microsoft.aspnetcore.signalr.client.core.3.1.4.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.4\\microsoft.aspnetcore.signalr.common.3.1.4.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.4\\microsoft.aspnetcore.signalr.protocols.json.3.1.4.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.4\\microsoft.extensions.configuration.3.1.4.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.4\\microsoft.extensions.configuration.binder.3.1.4.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.4\\microsoft.extensions.dependencyinjection.3.1.4.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.extensions.logging\\3.1.4\\microsoft.extensions.logging.3.1.4.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.extensions.options\\3.1.4\\microsoft.extensions.options.3.1.4.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512",
+    "C:\\Users\\Vatsal.Patel\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
